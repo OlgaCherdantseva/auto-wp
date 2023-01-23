@@ -1,0 +1,2 @@
+# auto-wp
+auto WordPress
